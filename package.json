@@ -45,6 +45,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "node-sass": "npm:dart-sass@^1.25.0",
     "prettier": "^3.5.3"
   }
