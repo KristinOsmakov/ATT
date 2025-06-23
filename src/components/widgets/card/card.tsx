@@ -1,4 +1,4 @@
-import { Profile } from '../profile/profile';
+import { Profile } from '../profile/profile'
 import s from './card.module.scss'
 export type CardProps = {
   imageCard: string,

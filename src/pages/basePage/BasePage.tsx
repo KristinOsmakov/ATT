@@ -1,7 +1,8 @@
+import { AppRoutes } from '../../app/routes/AppRoutes';
+import { Button } from '../../components/ui/button/button';
+import { Container } from '../../components/widgets/container/container';
 import s from './BasePage.module.scss'
-import { Button } from "../components/button/button";
-import { AppRoutes } from '../app/routes/AppRoutes';
-import { Container } from '../components/container/container';
+
 
 function BasePage() {
   const linksArr = [

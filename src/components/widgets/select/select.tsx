@@ -1,25 +1,16 @@
-import { useMemo, useState } from "react";
-import { dataCountries } from "../../dataCountries";
+import { useState } from "react";
 import { SelectOption } from "./selectOption/selectOption";
 import s from './select.module.scss';
-import ArrowDown from "../../shared/assets/icons/ArrowDown";
-import ArrowUp from "../../shared/assets/icons/ArrowUp";
+import ArrowDown from "../../../shared/assets/icons/ArrowDown";
+import ArrowUp from "../../../shared/assets/icons/ArrowUp";
 import { SelectSearch } from "./selectSearch/selectSearch";
+import { useFiltereCountries } from "../../../features/hooks/useFilterCountries";
 
 export const Select = () => {
     const [isOpen, setIsOpen] = useState(false);
     const [selectedOption, setSelectedOption] = useState('');
     const [searchQuery, setSearchQuery] = useState('')
-
-    const {filteredCountries, hasError} = useMemo(() => {
-        const filtered = dataCountries.filter(country => 
-            country.countries.toLowerCase().startsWith(searchQuery.toLowerCase()))
-
-            return {
-                filteredCountries: filtered,
-                hasError: searchQuery.length > 0 && filtered.length === 0
-            }
-    }, [searchQuery])
+    const {filteredCountries, hasError} = useFiltereCountries(searchQuery)
     
     return (
         <div className={s.selectContainer}>

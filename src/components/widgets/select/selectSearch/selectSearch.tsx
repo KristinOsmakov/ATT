@@ -1,5 +1,5 @@
 import clsx from 'clsx';
-import Search from '../../../shared/assets/icons/Search'
+import Search from '../../../../shared/assets/icons/Search'
 import s from './selectSearch.module.scss'
 
 type SelectSearch = {
