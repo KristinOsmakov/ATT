@@ -8,10 +8,12 @@ type SelectSearch = {
     error: boolean
 }
 export const SelectSearch = ({value, onChange, error = false}: SelectSearch) => {
+    
     return (
         <div className={s.searchContainer}>
             <Search className={s.searchIcon}/>
-            <input 
+            <input
+                type='search'
                 className={clsx(s.selectedSearchContainer, error && s.error)}
                 value={value}
                 onChange={(e) => onChange(e.target.value)}
