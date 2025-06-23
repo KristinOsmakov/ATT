@@ -1,0 +1,27 @@
+.searchContainer {
+    padding: 5px;
+    position: relative;
+}
+
+.searchIcon {
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    transform: translateY(-50%);
+}
+
+.selectedSearchContainer {
+    padding: 5px 10px 5px 25px;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 5px;
+    width: 100%;
+    box-sizing: border-box;
+
+    &:focus {
+        outline: none;
+    }
+
+    &.error {
+        border-color: red;
+    }
+}

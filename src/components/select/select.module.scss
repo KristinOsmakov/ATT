@@ -1,0 +1,26 @@
+.selectContainer {
+    width: 90%;
+    border: 1px solid rgb(128, 128, 128);
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.selectedValue {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: rgb(128, 128, 128);
+    
+    &.open {
+        border-bottom: 1px solid rgb(128, 128, 128);
+        border-radius: 10px;
+    }
+}
+
+.options {
+    max-height: 255px;
+    overflow-y: auto;
+}

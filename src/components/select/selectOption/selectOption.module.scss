@@ -1,0 +1,11 @@
+.option {
+    padding: 5px;
+    border-top: 0.5px solid rgb(128, 128, 128);
+    color: rgb(77, 77, 77);
+    cursor: pointer;
+
+    &:hover {
+        background-color: rgb(3, 161, 252);
+        transition: 1s;
+    }
+}
