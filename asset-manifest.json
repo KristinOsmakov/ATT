@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ATT/static/css/main.5d015d20.css",
-    "main.js": "/ATT/static/js/main.8a516f5b.js",
+    "main.js": "/ATT/static/js/main.a1c1720d.js",
     "static/media/users1.jpg": "/ATT/static/media/users1.3986a9078438e3059850.jpg",
     "static/media/users.jpg": "/ATT/static/media/users.cb6a8522b3e78fb9572a.jpg",
     "static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.jpg": "/ATT/static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.a400c2d6d6e610d32164.jpg",
@@ -10,10 +10,10 @@
     "static/media/safari-1.jpg": "/ATT/static/media/safari-1.6ad2bdbe01eed5b255f2.jpg",
     "index.html": "/ATT/index.html",
     "main.5d015d20.css.map": "/ATT/static/css/main.5d015d20.css.map",
-    "main.8a516f5b.js.map": "/ATT/static/js/main.8a516f5b.js.map"
+    "main.a1c1720d.js.map": "/ATT/static/js/main.a1c1720d.js.map"
   },
   "entrypoints": [
     "static/css/main.5d015d20.css",
-    "static/js/main.8a516f5b.js"
+    "static/js/main.a1c1720d.js"
   ]
 }
