@@ -1,9 +1,9 @@
-import imageForTechnology from '../../../shared/assets/images/dataImg/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.jpg'
-import imageForExpansion from '../../../shared/assets/images/dataImg/safari-1.jpg'
-import imageForSustainability from '../../../shared/assets/images/dataImg/sportivnaya-mashina-v-pustyne-edet-po-pesku.jpg'
-import avatarForTechnology from '../../../shared/assets/images/avatar/2018-11-1_219203-2.jpg'
-import avatarForExpansion from '../../../shared/assets/images/avatar/users.jpg'
-import avatarForSustainability from '../../../shared/assets/images/avatar/users1.jpg'
+import imageForTechnology from '../../../shared/assets/images/dataImg/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.webp'
+import imageForExpansion from '../../../shared/assets/images/dataImg/safari-1.webp'
+import imageForSustainability from '../../../shared/assets/images/dataImg/sportivnaya-mashina-v-pustyne-edet-po-pesku.webp'
+import avatarForTechnology from '../../../shared/assets/images/avatar/2018-11-1_219203-2.webp'
+import avatarForExpansion from '../../../shared/assets/images/avatar/users.webp'
+import avatarForSustainability from '../../../shared/assets/images/avatar/users1.webp'
 
 
 type Data = {
