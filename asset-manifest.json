@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/ATT/static/css/main.5d015d20.css",
-    "main.js": "/ATT/static/js/main.a1c1720d.js",
-    "static/media/users1.jpg": "/ATT/static/media/users1.3986a9078438e3059850.jpg",
-    "static/media/users.jpg": "/ATT/static/media/users.cb6a8522b3e78fb9572a.jpg",
-    "static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.jpg": "/ATT/static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.a400c2d6d6e610d32164.jpg",
-    "static/media/sportivnaya-mashina-v-pustyne-edet-po-pesku.jpg": "/ATT/static/media/sportivnaya-mashina-v-pustyne-edet-po-pesku.ca124dca84012da71c3c.jpg",
-    "static/media/2018-11-1_219203-2.jpg": "/ATT/static/media/2018-11-1_219203-2.50703ee7184f911c530f.jpg",
-    "static/media/safari-1.jpg": "/ATT/static/media/safari-1.6ad2bdbe01eed5b255f2.jpg",
+    "main.js": "/ATT/static/js/main.b4e7e678.js",
+    "static/media/users1.webp": "/ATT/static/media/users1.3986a9078438e3059850.webp",
+    "static/media/users.webp": "/ATT/static/media/users.cb6a8522b3e78fb9572a.webp",
+    "static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.webp": "/ATT/static/media/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.a400c2d6d6e610d32164.webp",
+    "static/media/sportivnaya-mashina-v-pustyne-edet-po-pesku.webp": "/ATT/static/media/sportivnaya-mashina-v-pustyne-edet-po-pesku.ca124dca84012da71c3c.webp",
+    "static/media/2018-11-1_219203-2.webp": "/ATT/static/media/2018-11-1_219203-2.50703ee7184f911c530f.webp",
+    "static/media/safari-1.webp": "/ATT/static/media/safari-1.6ad2bdbe01eed5b255f2.webp",
     "index.html": "/ATT/index.html",
     "main.5d015d20.css.map": "/ATT/static/css/main.5d015d20.css.map",
-    "main.a1c1720d.js.map": "/ATT/static/js/main.a1c1720d.js.map"
+    "main.b4e7e678.js.map": "/ATT/static/js/main.b4e7e678.js.map"
   },
   "entrypoints": [
     "static/css/main.5d015d20.css",
-    "static/js/main.a1c1720d.js"
+    "static/js/main.b4e7e678.js"
   ]
 }
