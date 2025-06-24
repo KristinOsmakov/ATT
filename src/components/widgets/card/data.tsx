@@ -1,4 +1,4 @@
-import imageForTechnology from '../../../shared/assets/images/dataImg/Toyota-Land-Cruiser-200-на-джип-сафари-в-пустыне-Дубай-Шарджа.webp'
+import imageForTechnology from '../../../shared/assets/images/dataImg/Toyota-Land-Cruiser-200.webp'
 import imageForExpansion from '../../../shared/assets/images/dataImg/safari-1.webp'
 import imageForSustainability from '../../../shared/assets/images/dataImg/sportivnaya-mashina-v-pustyne-edet-po-pesku.webp'
 import avatarForTechnology from '../../../shared/assets/images/avatar/2018-11-1_219203-2.webp'
