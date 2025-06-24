@@ -7,8 +7,8 @@ type Container = {
 } 
 export const Container = ({className, children}: Container) => {
     return (
-        <div className={clsx(s.container, className)}>
+        <section className={clsx(s.container, className)}>
             {children}
-        </div>
+        </section>
     )
 }

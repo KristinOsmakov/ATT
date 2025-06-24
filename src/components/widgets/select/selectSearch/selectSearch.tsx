@@ -21,6 +21,7 @@ export const SelectSearch = ({ value, onChange, error = false }: SelectSearchPro
     <div className={s.searchContainer}>
       <Search className={s.searchIcon}/>
       <input
+        id='searchInput'
         type='search'
         className={clsx(s.selectedSearchContainer, error && s.error)}
         value={inputValue}

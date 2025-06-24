@@ -10,10 +10,12 @@ function CardsPage() {
       <Card 
         key={card.id}
         imageCard={card.imageCard}
+        imageCardWebp={card.imageCardWebp}
         category={card.category}
         title={card.title}
         text={card.text}
         avatar={card.avatar}
+        avatarWebp={card.avatarWebp}
         name={card.name}
         date={card.date} 
     />
